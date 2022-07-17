@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&family=Josefin+Sans:ital,wght@0,400;1,300&family=Lato:wght@300&family=Montserrat&family=Montserrat+Alternates&family=Mulish:ital,wght@1,300&display=swap');
+
+body {
+    background-color: rgb(241, 156, 206);
+    color: rgb(39, 35, 35);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+
+}
+
+h1,
+h3 {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    color: rgb(94, 63, 23);
+}
+
+#load {
+    color: rgb(26, 167, 21);
+}
+
+.quotes {
+    color: rgb(23, 23, 44);
+    font-family: 'Josefin Sans', sans-serif;
+    line-height: 25px;
+}
